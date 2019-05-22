@@ -26,12 +26,3 @@ public class P2_3 {
         }
     }
 }
-
-/*
- * Zadanie 2.3 Pole trójkąta Program, który odczytuje trzy liczby, sprawdza czy
- * liczby te mogą stanowić boki trójkąta (np. z 2, 2 i 5 nie da się ułożyć
- * trójkąta, prawa?), a jeśli mogą, oblicza pole powierzchni trójkąta o takich
- * bokach. Wzór Herona: √ p (p−a)( p−b)( p−c) , gdzie p jest połową obwodu: (a+
- * b+c) /2 . Tutaj użyj jednego z poznanych sposobów komunikacji z
- * użytkownikiem. Pierwiastek kwadratowy to metoda Math.sqrt( ).
- */

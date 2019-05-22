@@ -84,15 +84,5 @@ public class P2_2 {
             JOptionPane.showMessageDialog(null, "Podano błędny czas naprawy", "Błąd", JOptionPane.ERROR_MESSAGE);
             return;
         }
-
     }
 }
-
-/*
- * Napisz taki program: użytkownik ma podać, w jaki dzień tygodnia oddał buty do
- * szewca (numer od 1 do 7). Ma też podać, ile dni będzie trwała naprawa.
- * Program ma wypisać, w jaki dzień tygodnia buty będą gotowe do odbioru. W
- * podstawowej wersji możesz wypisywać dzień odbioru też jako numer. W wersji
- * zaawansowanej spróbuj wypisywać dzień odbioru słownie i obsłużyć także
- * sytuacje, że naprawa trwa dłużej niż 7 dni.
- */
